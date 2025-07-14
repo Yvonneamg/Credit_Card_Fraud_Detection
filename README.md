@@ -1,2 +1,11 @@
 # Credit_Card_Fraud_Detection
-This repository contains SQL and Python codes as well as visualizations aimed at identifying and flagging credit card transaction anomalies.
+This project analyzes Kaggle's Credit Card Fraud Detection dataset using SQLite and Python in Jupyter Notebooks. It includes data cleaning, visualization, and anomaly detection with an isolation forest model.
+
+# Dataset
+Source: Kaggle Credit Card Fraud Detection
+Features: 31 columns (Time, V1–V28, Amount, Class
+
+# Key Insights
+
+
+# Files
