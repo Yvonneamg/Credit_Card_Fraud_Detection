@@ -3,7 +3,7 @@ This project analyzes Kaggle's Credit Card Fraud Detection dataset using SQLite 
 
 # Dataset
 Source: Kaggle Credit Card Fraud Detection
-Features: 31 columns (Time, V1–V28, Amount, Class
+Features: 31 columns (Time, V1–V28, Amount, Class)
 
 # Key Insights
 
