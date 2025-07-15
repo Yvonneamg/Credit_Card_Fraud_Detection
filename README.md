@@ -17,4 +17,4 @@ The busines needs insight into periods when fraudlent transactions are highly li
 SQlite, Jupyter Notebooks
 
 # Deliverables
-- [SQL Queries](scripts/Fraud%20Detection%20SQL%20Queries.md)
+- [SQL Queries](scripts/Fraud%20Detection%20SQL%20queries.md)
