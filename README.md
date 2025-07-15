@@ -11,6 +11,7 @@ The busines needs insight into periods when fraudlent transactions are highly li
 - Features: 31 columns (Time, V1–V28, Amount, Class)
 
 # Approach
+- **SQL** : Queried early morning transactions between 12 AM and 6 AM, Frequent transactions more than 5 transactions in 1 hour, Hight transactions customers that is top 1% customers by amount.
 
 
 # Tools
