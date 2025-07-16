@@ -14,8 +14,8 @@ The busines needs insight into periods when fraudlent transactions are highly li
 - **SQL** : Queried early morning transactions between 12 AM and 6 AM, Frequent transactions more than 5 transactions in 1 hour, Hight transactions customers that is top 1% customers by amount.
 - **Jupyter Notebooks** : Ran the SQL Queries on Jupyter notebooks as well by using sqlite3 to verify the dataset. Analyze the results, that is, check fraud distribution among the top 1% customers by amount and compare with results from SQlite. It should be a similar result.
   - [Plot of Distribution of Transactions amounts (Fraud Vs NonFraud](Visualizations/jupyter%20visualizations/Distribution%20of%20Transactions%20amounts%20(Fraud%20Vs%20NonFraud).png)
-  - [Scatter plot of V1 vs V2 by  fraud class]-(Visualizations/jupyter%20visualizations/.png)
-  - [Time based fraud pattern]-(Visualizations/jupyter%20visualizations/.png)
+  - [Scatter plot of V1 vs V2 by  fraud class](Visualizations/jupyter%20visualizations/.png)
+  - [Time based fraud pattern](Visualizations/jupyter%20visualizations/.png)
                         
 
 
