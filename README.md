@@ -18,7 +18,6 @@ The busines needs insight into periods when fraudlent transactions are highly li
   - [Time based fraud pattern](Visualizations/Jupyter%20visualizations/Transaction%20Time%20Distribution%20(Fraud%20vs%20Non%20Fraud).png)
                         
 
-
 # Tools
 SQlite, Jupyter Notebooks
 
