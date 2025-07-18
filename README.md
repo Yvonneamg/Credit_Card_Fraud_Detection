@@ -27,4 +27,5 @@ SQlite, Jupyter Notebooks
 
 # Deliverables
 - [SQL Queries](SQL%20Scripts/Fraud%20Detection%20SQL%20queries.md)
-- [Fraud_detection.ipynb](
+- [Fraud_detection.ipynb](fraud_detection.ipynb)
+- [Fraud_detection.ipynb](fraud_detection.ipynb)
