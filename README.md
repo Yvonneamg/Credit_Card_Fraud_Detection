@@ -17,9 +17,14 @@ The busines needs insight into periods when fraudlent transactions are highly li
   - [Scatter plot of V1 vs V2 by fraud class](Visualizations/Jupyter%20visualizations/ScatterplotofV1vsV2byfraudclass.png)
   - [Time based fraud pattern](Visualizations/Jupyter%20visualizations/Transaction%20Time%20Distribution%20(Fraud%20vs%20Non%20Fraud).png)
                         
-
 # Tools
 SQlite, Jupyter Notebooks
 
+# Findings
+- Fraudulent transactions are more likely in high-value transactions (>99th percentile).
+- Early morning transactions (12 AM–6 AM) show a higher fraud rate.
+- Isolation forest detected 0.17% of transactions as anomalies, aligning with the dataset's fraud rate
+
 # Deliverables
 - [SQL Queries](SQL%20Scripts/Fraud%20Detection%20SQL%20queries.md)
+- [Fraud_detection.ipynb](
