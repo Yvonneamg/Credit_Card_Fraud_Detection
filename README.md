@@ -29,3 +29,7 @@ SQlite, Jupyter Notebooks
 - [SQL Queries](SQL%20Scripts/Fraud%20Detection%20SQL%20queries.md)
 - [Fraud_detection.ipynb](fraud_detection.ipynb)
 - [Visualizations](Visualizations)
+
+# How to run
+- Open Fraud_detections.ipynb and run on notebooks, follow the instructions on Fraud_detections.html
+- Open SQLite and run SQL Queries
