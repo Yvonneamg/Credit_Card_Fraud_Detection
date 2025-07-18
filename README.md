@@ -21,9 +21,10 @@ The busines needs insight into periods when fraudlent transactions are highly li
 SQlite, Jupyter Notebooks
 
 # Findings
-- Fraudulent transactions are more likely in high-value transactions (>99th percentile).
-- Early morning transactions (12 AM–6 AM) show a higher fraud rate.
-- Isolation forest detected 0.17% of transactions as anomalies, aligning with the dataset's fraud rate
+- High-value transactions (>99th percentile) show a higher proportion of fraud.
+- Time-based analysis suggests fraud is more common in early morning hoursDSP hours (12 AM–6 AM).
+- The Isolation Forest model detected fraud with a precision of 21% (see classification report).
+- The dataset is highly imbalanced (0.17% fraud), which may affect model performance.
 
 # Deliverables
 - [SQL Queries](SQL%20Scripts/Fraud%20Detection%20SQL%20queries.md)
@@ -33,3 +34,7 @@ SQlite, Jupyter Notebooks
 # How to run
 - Open Fraud_detections.ipynb and run on notebooks, follow the instructions on Fraud_detections.html
 - Open SQLite and run SQL Queries
+# Future Improvements
+**SMOTE**: Use Synthetic Minority Oversampling Technique to balance the dataset for better model training.
+**Feature Engineering**: Explore additional feature combinations or domain-specific features.
+**Advanced Models**: Try other anomaly detection methods (e.g., Autoencoders) or supervised models.
