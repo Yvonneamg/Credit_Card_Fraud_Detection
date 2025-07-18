@@ -35,6 +35,6 @@ SQlite, Jupyter Notebooks
 - Open Fraud_detections.ipynb and run on notebooks, follow the instructions on Fraud_detections.html
 - Open SQLite and run SQL Queries
 # Future Improvements
-**SMOTE**: Use Synthetic Minority Oversampling Technique to balance the dataset for better model training.
-**Feature Engineering**: Explore additional feature combinations or domain-specific features.
-**Advanced Models**: Try other anomaly detection methods (e.g., Autoencoders) or supervised models.
+- **SMOTE**: Use Synthetic Minority Oversampling Technique to balance the dataset for better model training.
+- **Feature Engineering**: Explore additional feature combinations or domain-specific features.
+- **Advanced Models**: Try other anomaly detection methods (e.g., Autoencoders) or supervised models.
