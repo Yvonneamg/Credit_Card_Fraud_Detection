@@ -1,0 +1,6 @@
+creditcard.csv
+Anomaly_predictions.csv
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
