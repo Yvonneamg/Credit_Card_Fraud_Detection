@@ -86,7 +86,6 @@ Additional behavioral features were created to provide the anomaly detection mod
 
 A log transformation was applied to transaction amount:
 
-```python
 Log_Amount = np.log1p(Amount)
 
 This reduces the effect of highly skewed transaction amounts and makes the distribution more suitable for analysis and modelling.
