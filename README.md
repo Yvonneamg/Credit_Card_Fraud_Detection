@@ -164,7 +164,6 @@ Because the dataset is extremely imbalanced, model performance was evaluated usi
 
 ## Project Structure
 
-```text
 Credit_Card_Fraud_Detection/
 │
 ├── SQL Scripts/
