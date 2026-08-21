@@ -85,8 +85,9 @@ Additional behavioral features were created to provide the anomaly detection mod
 ### Log_Amount
 
 A log transformation was applied to transaction amount:
-
+```python
 Log_Amount = np.log1p(Amount)
+```
 
 This reduces the effect of highly skewed transaction amounts and makes the distribution more suitable for analysis and modelling.
 
@@ -164,6 +165,9 @@ Because the dataset is extremely imbalanced, model performance was evaluated usi
 
 ## Project Structure
 
+## Project Structure
+
+```text
 Credit_Card_Fraud_Detection/
 │
 ├── SQL Scripts/
@@ -175,6 +179,7 @@ Credit_Card_Fraud_Detection/
 ├── fraud_detection_final.ipynb
 │
 └── README.md
+```
 
 # Deliverables
 - [SQL Queries](SQL%20Scripts/Fraud%20Detection%20SQL%20queries.md)
