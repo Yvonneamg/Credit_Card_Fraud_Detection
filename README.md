@@ -211,7 +211,7 @@ Credit_Card_Fraud_Detection/
 ## How to Run
 
 1. Clone or download the repository.
-2. Open `fraud_detection_final.ipynb` in Jupyter Notebook or VS Code.
+2. Open `fraud_analytics_detection.ipynb` in Jupyter Notebook or VS Code.
 3. Install the required Python libraries if necessary.
 4. Run the notebook cells sequentially.
 5. The SQL analysis can be reviewed in the `SQL Scripts` folder.
