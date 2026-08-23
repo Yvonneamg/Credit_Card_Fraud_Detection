@@ -189,8 +189,6 @@ Because the dataset is extremely imbalanced, model performance was evaluated usi
 
 ## Project Structure
 
-## Project Structure
-
 ```text
 Credit_Card_Fraud_Detection/
 │
@@ -238,5 +236,5 @@ Potential next steps include:
 - Evaluate supervised models such as **Logistic Regression, Random Forest, and XGBoost** using appropriate imbalance-aware metrics.
 - Perform hyperparameter tuning for the Isolation Forest.
 - Investigate precision-recall trade-offs at different anomaly thresholds.
-- Develop additional behavioral features based on transaction frequency, spending patterns, and time-based activity.
+- Develop additional behavioral features based on transaction frequency, spending patterns and time-based activity.
 - Build an interactive dashboard to communicate fraud patterns and investigation priorities to non-technical stakeholders.
