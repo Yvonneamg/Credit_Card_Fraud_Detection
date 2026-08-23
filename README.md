@@ -1,14 +1,38 @@
-# Credit Card Fraud Detection
+# Credit Card Fraud Analytics & Anomaly Detection
 
 ## Overview
 
-An end-to-end fraud analytics and anomaly detection project using the Kaggle Credit Card Fraud Detection dataset. 
+An end-to-end data analytics project investigating transaction patterns
+associated with credit card fraud.
 
-The project combines **SQL, Python, statistical analysis, feature engineering, data visualization and Isolation Forest anomaly detection** to investigate transaction patterns associated with fraudulent activity and identify potentially unusual transactions.
+The project uses **SQL, Python, statistical analysis and unsupervised
+anomaly detection** to answer business questions around transaction
+value, transaction timing and unusual transaction behavior.
 
 The dataset contains credit card transactions made by European cardholders over two days in September 2013.
 
+## Key Findings
+
+• Early-morning transactions had a **3.5×** higher observed fraud rate
+  than transactions during other hours.
+
+• Transactions in the **top 1%** by amount had approximately **1.9×**
+  the fraud rate of other transactions.
+
+• High transaction-volume periods did not show elevated fraud rates.
+
+• Isolation Forest identified **146** anomalous transactions, **30** of
+  which were confirmed fraudulent.
+
+## Business Recommendation
+
+Anomaly detection should be used as a supporting signal for
+investigation prioritization rather than as a standalone fraud
+decisioning model.
+
 ---
+
+
 
 ## Business Problem
 
