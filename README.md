@@ -205,7 +205,7 @@ Credit_Card_Fraud_Detection/
 
 # Deliverables
 - [SQL Queries](SQL%20Scripts/Fraud%20Detection%20SQL%20queries.md)
-- [Fraud_detection_final.ipynb](fraud_analytics_detection.ipynb)
+- [Fraud_analytics_detection.ipynb](fraud_analytics_detection.ipynb)
 - [Visualizations](Visualizations)
 
 ## How to Run
