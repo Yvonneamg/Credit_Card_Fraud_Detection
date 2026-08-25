@@ -204,7 +204,7 @@ Credit_Card_Fraud_Detection/
 ```
 
 # Deliverables
-- [SQL Queries](SQL%20Scripts/fraud_analytics_detection.sql)
+- [SQL Queries](SQL_Scripts/fraud_analytics_detection.sql)
 - [Fraud_analytics_detection.ipynb](fraud_analytics_detection.ipynb)
 - [Visualizations](Visualizations)
 
