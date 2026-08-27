@@ -198,7 +198,9 @@ Credit_Card_Fraud_Detection/
 ├── Visualizations/
 │   └── [visualization files]
 │
-├── fraud_detection_final.ipynb
+├── fraud_analytics_detection.html
+│
+├── fraud_analytics_detection.ipynb
 │
 └── README.md
 ```
